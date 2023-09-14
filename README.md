@@ -5,10 +5,12 @@
 - CSS
 - CSS Flexbox
 
+## Live Demo:
+<a href="https://gentle-selkie-28a481.netlify.app/">Live Demo</a>
+
 ## Output:
 ![business card](image.png)
 
-## Live Demo: https://gentle-selkie-28a481.netlify.app/
 
 ## Quick start:
 
